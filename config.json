@@ -1,0 +1,43 @@
+{
+    "domain": "https://press.algo",
+    "graphQL": "",
+    "graphQLkey": "",
+    "algod": {
+        "server": "https://mainnet-api.algonode.cloud/",
+        "port": "",
+        "token": "",
+        "network": "MainNet"
+    },
+    "indexer": {
+        "server": "https://mainnet-idx.algonode.cloud",
+        "port": "",
+        "token": ""
+    },
+    "ipfs": {
+        "display": "https://cloudflare-ipfs.com/ipfs/",
+        "ipfsGateway": "https://yieldly.mypinata.cloud/ipfs/",
+        "token": ""
+    },
+    "explorer": "algoexplorer.io",
+    "application": {
+        "admin_addr": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "app_id": 82774389,
+        "price_id": 82774491,
+        "nftkey_id": 779056206,
+        "owner_addr": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "owner_addr2": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "owner_addr3": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "owner_addr4": "7EISH72TGOIOMBHON3G5LE3HIZYORQL5R3KLKPI22YRGLW44JUW4UDNFGA",
+        "fee_addr": "TVNER5ONFXXWPUU5EFFBUDFO2Y62NYT63FJ2RZTWLWYW2MNLESNIZW3DEU",
+        "listing_fee_addr": "FEV4SKM3M35N6QINIKO3BOZRWLYZMDVIHBVZSU2M46V66OXCFE7SAOGVGM",
+        "name": "press.algo",
+        "unit": "HC",
+        "fee_amt": 10000,
+        "seed_amt": 5000000,
+        "max_price": 10000000000
+    },
+    "dev": {
+        "debug_txns": false,
+        "accounts": {}
+    }
+}
